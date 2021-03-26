@@ -8,6 +8,7 @@ class Main {
   System.out.println("second commit by Deekshith");
   System.out.println("Hello World");
   System.out.println("Java");
+  System.out.println("This is main class");
  }
 
 }
