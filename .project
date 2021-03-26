@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>SampleRepository</name>
+=======
+	<name>case_study</name>
+>>>>>>> branch 'master' of https://github.com/jr5group4/SampleRepository.git
 	<comment></comment>
 	<projects>
 	</projects>
